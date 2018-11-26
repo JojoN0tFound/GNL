@@ -6,7 +6,7 @@
 /*   By: jquivogn <jquivogn@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/11/08 00:06:28 by jquivogn          #+#    #+#             */
-/*   Updated: 2018/11/10 10:57:27 by jquivogn         ###   ########.fr       */
+/*   Updated: 2018/11/22 08:52:34 by jquivogn         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
 # include <stdlib.h>
 # include <fcntl.h>
 
-# define BUFF_SIZE 320
+# define BUFF_SIZE 500
 
 int	get_next_line(const int fd, char **line);
 
